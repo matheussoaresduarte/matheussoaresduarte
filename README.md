@@ -4,9 +4,14 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://instagram.com/sujeitoprogramador)
 
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheussoaresduarte&show_icons=true&theme=onedark&count_private=true )
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussoaresduarte&layout=compact&show_icons=true&theme=onedark)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=matheussoaresduarte&theme=onedark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheussoaresduarte&theme=onedark&layout=compact&langs_count=8&card_width=320" />
+</a>
 </br>
+
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 ## Tecnologias que eu uso no meu dia a dia
@@ -19,9 +24,19 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  
+  
 </div></br>
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+
+### Projetos que estou Desenvolvendo
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=onedark)](https://github.com/matheussoaresduarte/barbearia_site)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=onedark)](https://github.com/matheussoaresduarte/barbearia_site)
+
+
 
 ### Últimos videos:
 - [Criando Infinite Scroll - React Native](https://youtu.be/TjkFGrjkXfc)<br/>
