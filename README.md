@@ -1,28 +1,34 @@
-## Olá, Muito Prazer, Seja Bem Vindo Ao Meu Perfil!!
+## Olá, Muito Prazer. Me chamo Matheus Soares e Seja Bem Vindo Ao Meu Perfil!!
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-soares-0833211a7/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://instagram.com/sujeitoprogramador)
 
-<div>
-  <a href="https://www.instagram.com/mattheus_s_d/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-soares-0833211a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
-<div>
-  <a href="https://github.com/matheussoaresduarte">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=matheussoaresduarte&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img  align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussoaresduarte&layout=compact&langs_count=7&theme=gruvbox"/>
-</div>
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheussoaresduarte&show_icons=true&theme=onedark&count_private=true )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussoaresduarte&layout=compact&show_icons=true&theme=onedark)
+</br>
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
-## Tecnologias que estou usando e aprendendo atualmente
+## Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block">
-  <div style="display: inline_block">
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-</div>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+</div></br>
 
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+
+### Últimos videos:
+- [Criando Infinite Scroll - React Native](https://youtu.be/TjkFGrjkXfc)<br/>
+- [O que estudar para se tornar um desenvolvedor front-end? 2022](https://youtu.be/Ab-kGzlCCWI)<br/>
+- [Criando interface login do Instagram - React Native](https://youtu.be/pSV9Wh_p2Cg)<br/>
+- [Aprendendo e conhecendo FIGMA - UI Design](https://youtu.be/KRCfX25yFf4)<br/>
+
+
+
 
