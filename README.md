@@ -38,10 +38,10 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 ## Projetos que estou Desenvolvendo
 <div style="display: inline_block">
   <a href="https://github.com/matheussoaresduarte/barbearia_site">
-    <img src="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=onedark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheussoaresduarte&repo=barbearia_site&theme=onedark" />
   </a>
   <a href="https://github.com/matheussoaresduarte/barbearia_site">
-    <img src="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=onedark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheussoaresduarte&repo=barbearia_site&theme=onedark" />
   </a>
 </div>
 
