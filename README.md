@@ -41,6 +41,9 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
   <a href="https://github.com/matheussoaresduarte/AtividadesCubosAcademy">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheussoaresduarte&repo=AtividadesCubosAcademy&theme=onedark" />
   </a>
+  <a href="https://github.com/matheussoaresduarte/barbearia_site">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=matheussoaresduarte&repo=barbearia_site&theme=onedark" />
+  </a>
    
 </div>
 
