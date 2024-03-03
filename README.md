@@ -1,8 +1,10 @@
+<div align="center">
+
 ## Olá, Muito Prazer. Me chamo Matheus Soares e Seja Bem Vindo Ao Meu Perfil!!
+
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-soares-0833211a7/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://instagram.com/sujeitoprogramador)
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=matheussoaresduarte&theme=onedark" />
@@ -26,23 +28,28 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  
-  
 </div></br>
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
-### Projetos que estou Desenvolvendo
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=onedark)](https://github.com/matheussoaresduarte/barbearia_site)
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=onedark)](https://github.com/matheussoaresduarte/barbearia_site)
+## Projetos que estou Desenvolvendo
+<div style="display: inline_block">
+  <a href="https://github.com/matheussoaresduarte/barbearia_site">
+    <img src="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=onedark" />
+  </a>
+  <a href="https://github.com/matheussoaresduarte/barbearia_site">
+    <img src="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=onedark" />
+  </a>
+</div>
 
-
-
-### Últimos videos:
-- [Criando Infinite Scroll - React Native](https://youtu.be/TjkFGrjkXfc)<br/>
-- [O que estudar para se tornar um desenvolvedor front-end? 2022](https://youtu.be/Ab-kGzlCCWI)<br/>
-- [Criando interface login do Instagram - React Native](https://youtu.be/pSV9Wh_p2Cg)<br/>
-- [Aprendendo e conhecendo FIGMA - UI Design](https://youtu.be/KRCfX25yFf4)<br/>
+<!-- ## Últimos vídeos:
+<div style="display: inline_block">
+  - [Criando Infinite Scroll - React Native](https://youtu.be/TjkFGrjkXfc)<br/>
+  - [O que estudar para se tornar um desenvolvedor front-end? 2022](https://youtu.be/Ab-kGzlCCWI)<br/>
+  - [Criando interface login do Instagram - React Native](https://youtu.be/pSV9Wh_p2Cg)<br/>
+  - [Aprendendo e conhecendo FIGMA - UI Design](https://youtu.be/KRCfX25yFf4)<br/>
+</div> -->
+</div>
 
 
 
