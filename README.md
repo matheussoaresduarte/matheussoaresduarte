@@ -7,16 +7,16 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-soares-0833211a7/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://instagram.com/sujeitoprogramador)
 
-<a href="https://github.com/matheussoaresduarte?tab=repositories">
+<!-- <a href="https://github.com/matheussoaresduarte?tab=repositories">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=matheussoaresduarte&theme=onedark" />
+</a> -->
+<a href="https://github.com/matheussoaresduarte">
+  <img height=180 align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=matheussoaresduarte&theme=onedark&mode=daily" />
 </a>
 <a href="https://github.com/matheussoaresduarte">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheussoaresduarte&theme=onedark&layout=compact&langs_count=8&card_width=320" />
 </a>
 </br
-<a href="https://github.com/matheussoaresduarte">
-  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=matheussoaresduarte&theme=onedark&mode=daily" />
-</a>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
