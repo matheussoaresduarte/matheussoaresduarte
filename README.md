@@ -18,7 +18,7 @@
 </a>
 </br
 
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/matheussoaresduarte/matheussoaresduarte/blob/output/github-contribution-grid-snake.svg)
 
  <h2><img height= 20 src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" >Tecnologias que eu uso no meu dia a dia  <img height= 20 src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" ></h2>
   
