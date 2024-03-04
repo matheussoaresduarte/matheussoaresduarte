@@ -14,11 +14,11 @@
 </a>
 <a href="https://github.com/matheussoaresduarte">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheussoaresduarte&theme=onedark&layout=compact&langs_count=8&card_width=320" />
-</a>
-</br
+</a></br>
 
-![Snake animation](https://github.com/matheussoaresduarte/matheussoaresduarte/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/matheussoaresduarte/matheussoaresduarte/blob/output/github-contribution-grid-snake.svg)
 
+</br>
  <h2><img height= 20 src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" >Tecnologias que eu uso no meu dia a dia  <img height= 20 src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" ></h2>
   
 <div style="display: inline_block">
