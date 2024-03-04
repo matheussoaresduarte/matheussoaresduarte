@@ -2,7 +2,6 @@
 
 ## Olá, Muito Prazer. Me chamo Matheus Soares e Seja Bem Vindo Ao Meu Perfil!!
 
-
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-soares-0833211a7/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.sd3210@gmail.com)
@@ -41,7 +40,10 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 ## Projetos que estou Desenvolvendo
 <div style="display: inline_block">
  
-
+  <a href="https://github.com/matheussoaresduarte/barbearia_site">
+    <img height=140 src="https://github-readme-stats.vercel.app/api/pin/?username=matheussoaresduarte&repo=barbearia_site&theme=onedark" />
+  </a>
+  
   <a href="https://github.com/matheussoaresduarte/AtividadesCubosAcademy">
     <img height=140 src="https://github-readme-stats.vercel.app/api/pin/?username=matheussoaresduarte&repo=AtividadesCubosAcademy&theme=onedark" />
   </a>
