@@ -9,9 +9,10 @@
 <!-- <a href="https://github.com/matheussoaresduarte?tab=repositories">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=matheussoaresduarte&theme=onedark" />
 </a> -->
-<a href="https://github.com/matheussoaresduarte">
+ <a href="https://github.com/matheussoaresduarte">
   <img height=180 align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=matheussoaresduarte&theme=onedark&mode=daily" />
-</a>
+</a> 
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=matheussoaresduarte&theme=onedark&locale=pt_BR)](https://git.io/streak-stats) -->
 <a href="https://github.com/matheussoaresduarte">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheussoaresduarte&theme=onedark&layout=compact&langs_count=8&card_width=320" />
 </a>
